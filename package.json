@@ -1,0 +1,28 @@
+{
+  "name": "crisscross",
+  "version": "v0.1.0",
+  "description": "A client view of location history.",
+  "homepage": "https://github.com/ptrdo/crisscross#readme",
+  "author": "psylwester@idmod.org",
+  "license": "CC-BY-NC-SA-4.0",
+  "main": "crisscross.js",
+  "files": [
+    "/crisscross.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptrdo/crisscross.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ptrdo/crisscross/issues"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "dependencies": {
+    
+  }
+}

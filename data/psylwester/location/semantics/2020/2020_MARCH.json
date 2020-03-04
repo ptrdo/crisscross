@@ -1,0 +1,1061 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478693546,
+        "longitudeE7" : -1221117359
+      },
+      "endLocation" : {
+        "latitudeE7" : 478767576,
+        "longitudeE7" : -1221552499
+      },
+      "duration" : {
+        "startTimestampMs" : "1583027178287",
+        "endTimestampMs" : "1583027737544"
+      },
+      "distance" : 3361,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.87913155555725
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.3648254573345184
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.8425766602158546
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4348431248217821
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.16927063697949052
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.13467732351273298
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.07902258657850325
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05048868479207158
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.027764993137679994
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.007618574454681948
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007114586333045736
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.002416386087134015
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.972933432625723E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.2419039775486453E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.1156349318025605E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478692512,
+          "lngE7" : -1221119537
+        }, {
+          "latE7" : 478630371,
+          "lngE7" : -1221269760
+        }, {
+          "latE7" : 478767013,
+          "lngE7" : -1221552886
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 478760442,
+        "longitudeE7" : -1221548716,
+        "placeId" : "ChIJNQlBsrEHkFQRJ7EvWi-SMUE",
+        "address" : "134th Place Southeast\nEverett, WA 98208\nUSA",
+        "name" : "silver Firs Shopping center",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 93.68336
+      },
+      "duration" : {
+        "startTimestampMs" : "1583027737544",
+        "endTimestampMs" : "1583028135377"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 478754779,
+          "longitudeE7" : -1221540554,
+          "placeId" : "ChIJC6Dt9LAHkFQR0jsqtr8GYts",
+          "address" : "5802 134th Pl SE\nEverett, WA 98208\nUSA",
+          "name" : "Safeway",
+          "sourceInfo" : {
+            "deviceTag" : 395954334
+          },
+          "locationConfidence" : 39.19661
+        },
+        "duration" : {
+          "startTimestampMs" : "1583027737544",
+          "endTimestampMs" : "1583027901550"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 478769261,
+        "centerLngE7" : -1221552071,
+        "visitConfidence" : 81,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 478764633,
+          "longitudeE7" : -1221557278,
+          "placeId" : "ChIJO2QttbEHkFQR0_wf_8FZ-tA",
+          "locationConfidence" : 15.826718
+        }, {
+          "latitudeE7" : 478757746,
+          "longitudeE7" : -1221560490,
+          "placeId" : "ChIJkaPgr7EHkFQREmNlN4Fpf30",
+          "locationConfidence" : 5.283431
+        }, {
+          "latitudeE7" : 478757323,
+          "longitudeE7" : -1221557208,
+          "placeId" : "ChIJkaPgr7EHkFQRW87_cI4T9FU",
+          "locationConfidence" : 4.022234
+        }, {
+          "latitudeE7" : 478758630,
+          "longitudeE7" : -1221560540,
+          "placeId" : "ChIJdeenurEHkFQR53jhbQmkf94",
+          "locationConfidence" : 3.1520617
+        }, {
+          "latitudeE7" : 478758938,
+          "longitudeE7" : -1221561516,
+          "placeId" : "ChIJ1b13sLEHkFQR2dL_Hvt5FwQ",
+          "locationConfidence" : 2.0680172
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 478767875,
+      "centerLngE7" : -1221552750,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 478764604,
+        "longitudeE7" : -1221557349,
+        "placeId" : "ChIJKajYtLEHkFQROiP7Ds1tilE",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 3.355813
+      }, {
+        "latitudeE7" : 478765612,
+        "longitudeE7" : -1221566542,
+        "placeId" : "ChIJq8nSy7EHkFQRQ9jGojD8fQc",
+        "locationConfidence" : 2.678242
+      }, {
+        "latitudeE7" : 478764741,
+        "longitudeE7" : -1221564178,
+        "placeId" : "ChIJQ8K7ybEHkFQR1Cg_tkmt2Kk",
+        "locationConfidence" : 0.272282
+      }, {
+        "latitudeE7" : 478761682,
+        "longitudeE7" : -1221530784,
+        "placeId" : "ChIJG5C_9LAHkFQRvTcn2C-733c",
+        "locationConfidence" : 0.006473099
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478763852,
+        "longitudeE7" : -1221555011
+      },
+      "endLocation" : {
+        "latitudeE7" : 478693245,
+        "longitudeE7" : -1221117119
+      },
+      "duration" : {
+        "startTimestampMs" : "1583028135377",
+        "endTimestampMs" : "1583028749432"
+      },
+      "distance" : 3359,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.86081600189209
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.8673166185617447
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6650785449892282
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.30595778953284025
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.122329022269696
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05798321799375117
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.040452220127917826
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.040045546484179795
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.0290580908767879
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.003879740324919112
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0036805209674639627
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00300693791359663
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.984252887472394E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 8.035671612560691E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 6.779041683557807E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478763504,
+          "lngE7" : -1221554107
+        }, {
+          "latE7" : 478630218,
+          "lngE7" : -1221248092
+        }, {
+          "latE7" : 478692512,
+          "lngE7" : -1221119537
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 478693619,
+        "longitudeE7" : -1221117427,
+        "placeId" : "ChIJ25c38eUHkFQR0zx9EK2yT4w",
+        "address" : "14013 89th Ave SE\nSnohomish, WA 98296\nUSA",
+        "name" : "14013 89th Ave SE",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 99.297005
+      },
+      "duration" : {
+        "startTimestampMs" : "1583028749432",
+        "endTimestampMs" : "1583164192544"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 478693339,
+      "centerLngE7" : -1221117184,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 478700095,
+        "longitudeE7" : -1221100143,
+        "placeId" : "ChIJldiphuUHkFQRFeUNUduBT7s",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.4862847
+      }, {
+        "latitudeE7" : 478685900,
+        "longitudeE7" : -1221113780,
+        "placeId" : "ChIJ62e65-UHkFQRl1b08tHSLEg",
+        "locationConfidence" : 0.20562126
+      }, {
+        "latitudeE7" : 478712590,
+        "longitudeE7" : -1221090370,
+        "placeId" : "ChIJDaCKje8HkFQRfOrhwPxAo0U",
+        "locationConfidence" : 0.011089928
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478693245,
+        "longitudeE7" : -1221117119
+      },
+      "endLocation" : {
+        "latitudeE7" : 478383681,
+        "longitudeE7" : -1221238689
+      },
+      "duration" : {
+        "startTimestampMs" : "1583164192544",
+        "endTimestampMs" : "1583164615264"
+      },
+      "distance" : 3674,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.41131567955017
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.5545388907194138
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.5129300523549318
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.31612785533070564
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.07052421569824219
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.05194978439249098
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.034228674485348165
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.023539038375020027
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.015523099864367396
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.004541097951005213
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0032719555747462437
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0013014716387260705
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.1378309636711492E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 1.0015295401899493E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.871305421730085E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478692512,
+          "lngE7" : -1221119537
+        }, {
+          "latE7" : 478448295,
+          "lngE7" : -1221195907
+        }, {
+          "latE7" : 478383827,
+          "lngE7" : -1221238555
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 478386540,
+        "longitudeE7" : -1221251409,
+        "placeId" : "ChIJR-LZjIkIkFQRy1zwPqV6KBg",
+        "address" : "17416 WA-9\nSnohomish, WA 98296\nUSA",
+        "name" : "Clearview Plaza",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 99.91777
+      },
+      "duration" : {
+        "startTimestampMs" : "1583164615264",
+        "endTimestampMs" : "1583165033959"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 478382359,
+          "longitudeE7" : -1221240970,
+          "placeId" : "ChIJ0VMnJooIkFQRKyxI3nUNrTU",
+          "address" : "17512 WA-9\nSnohomish, WA 98296\nUSA",
+          "name" : "First Financial Northwest Bank - Clearview Branch",
+          "sourceInfo" : {
+            "deviceTag" : 395954334
+          },
+          "locationConfidence" : 31.948725
+        },
+        "duration" : {
+          "startTimestampMs" : "1583164615264",
+          "endTimestampMs" : "1583165033959"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 478385525,
+        "centerLngE7" : -1221240564,
+        "visitConfidence" : 89,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 478387649,
+          "longitudeE7" : -1221238063,
+          "placeId" : "ChIJDUk8XNkKkFQRrfVSrwJCJKc",
+          "locationConfidence" : 28.59774
+        }, {
+          "latitudeE7" : 478387396,
+          "longitudeE7" : -1221238444,
+          "placeId" : "ChIJS4Un94kIkFQREDZYTWAcOuA",
+          "locationConfidence" : 26.606058
+        }, {
+          "latitudeE7" : 478386622,
+          "longitudeE7" : -1221256902,
+          "placeId" : "ChIJow_c7IkIkFQR-cFl4db_6wY",
+          "locationConfidence" : 4.1646695
+        }, {
+          "latitudeE7" : 478394070,
+          "longitudeE7" : -1221248910,
+          "placeId" : "ChIJ_dnSGIoIkFQRV7S7nMfFxRE",
+          "locationConfidence" : 0.42095342
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 478385229,
+      "centerLngE7" : -1221239929,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 478371640,
+        "longitudeE7" : -1221265600,
+        "placeId" : "ChIJCTq324sIkFQRefMzUxq4bmE",
+        "locationConfidence" : 0.08150217
+      }, {
+        "latitudeE7" : 478402050,
+        "longitudeE7" : -1221230227,
+        "placeId" : "ChIJJ4uVcmIIkFQRCyMAh3lxOkw",
+        "locationConfidence" : 4.1430554E-4
+      }, {
+        "latitudeE7" : 478359002,
+        "longitudeE7" : -1221257587,
+        "placeId" : "ChIJcwivjYsIkFQRoHVkWQmYclk",
+        "locationConfidence" : 1.0920886E-4
+      }, {
+        "latitudeE7" : 478362920,
+        "longitudeE7" : -1221270390,
+        "placeId" : "ChIJT55d7IsIkFQRMcKVaHMMMqo",
+        "locationConfidence" : 8.802804E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 478384698,
+          "lngE7" : -1221238535,
+          "timestampMs" : "1583164744358",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 478390380,
+          "lngE7" : -1221243055,
+          "timestampMs" : "1583164915259",
+          "accuracyMeters" : 39
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478376610,
+        "longitudeE7" : -1221240544
+      },
+      "endLocation" : {
+        "latitudeE7" : 475828358,
+        "longitudeE7" : -1221533905
+      },
+      "duration" : {
+        "startTimestampMs" : "1583165033959",
+        "endTimestampMs" : "1583168813105"
+      },
+      "distance" : 29511,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.50777077674866
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.1343884766101837
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6635745521634817
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.24848247412592173
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2189927501603961
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.10890576522797346
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.046380230924114585
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.04122424288652837
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0132390545331873
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.009800143743632361
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0030465045711025596
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0021845809897058643
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0011683543561957777
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 7.876140443840995E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.178943981969496E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478376388,
+          "lngE7" : -1221239700
+        }, {
+          "latE7" : 478045768,
+          "lngE7" : -1221435470
+        }, {
+          "latE7" : 475828285,
+          "lngE7" : -1221537017
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 475823185,
+        "longitudeE7" : -1221532614,
+        "placeId" : "ChIJmVhjhKdukFQRgtC6O9i3mFw",
+        "address" : "Building IV\n3150 139th Ave SE\nBellevue, WA 98005\nUSA",
+        "name" : "Building IV",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 77.89663
+      },
+      "duration" : {
+        "startTimestampMs" : "1583168813105",
+        "endTimestampMs" : "1583192216865"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 475828077,
+      "centerLngE7" : -1221533868,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 475826669,
+        "longitudeE7" : -1221539228,
+        "placeId" : "ChIJDYUNgR1skFQRGM_lzuZw3RE",
+        "locationConfidence" : 22.059978
+      }, {
+        "latitudeE7" : 475843038,
+        "longitudeE7" : -1221494195,
+        "placeId" : "ChIJZWLQKB5skFQRcN6zmpMVabs",
+        "locationConfidence" : 0.02319336
+      }, {
+        "latitudeE7" : 475819893,
+        "longitudeE7" : -1221511540,
+        "placeId" : "ChIJE4NKQKdukFQRjHG8r9lONtU",
+        "locationConfidence" : 0.007086954
+      }, {
+        "latitudeE7" : 475804944,
+        "longitudeE7" : -1221527312,
+        "placeId" : "ChIJO867rqdukFQRWrvqTZXRwqE",
+        "locationConfidence" : 0.006065601
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 475827527,
+        "longitudeE7" : -1221533726
+      },
+      "endLocation" : {
+        "latitudeE7" : 478693344,
+        "longitudeE7" : -1221117058
+      },
+      "duration" : {
+        "startTimestampMs" : "1583192216865",
+        "endTimestampMs" : "1583196462378"
+      },
+      "distance" : 33062,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.53356862068176
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.6818355545401573
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.2672938406467438
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6690469570457935
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4641730338335037
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.29950656462460756
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03197379701305181
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.021012335491832346
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009349673928227276
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.00883192042238079
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006899121217429638
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.004600478496286087
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.0010289055353496224
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 7.499605999328196E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.3132017784300842E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 475826835,
+          "lngE7" : -1221537094
+        }, {
+          "latE7" : 478045768,
+          "lngE7" : -1221433563
+        }, {
+          "latE7" : 478692512,
+          "lngE7" : -1221119537
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 478693619,
+        "longitudeE7" : -1221117427,
+        "placeId" : "ChIJ25c38eUHkFQR0zx9EK2yT4w",
+        "address" : "14013 89th Ave SE\nSnohomish, WA 98296\nUSA",
+        "name" : "14013 89th Ave SE",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 99.22697
+      },
+      "duration" : {
+        "startTimestampMs" : "1583196462378",
+        "endTimestampMs" : "1583251317276"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 478693289,
+      "centerLngE7" : -1221116999,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 478700095,
+        "longitudeE7" : -1221100143,
+        "placeId" : "ChIJldiphuUHkFQRFeUNUduBT7s",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.5643643
+      }, {
+        "latitudeE7" : 478685900,
+        "longitudeE7" : -1221113780,
+        "placeId" : "ChIJ62e65-UHkFQRl1b08tHSLEg",
+        "locationConfidence" : 0.19369377
+      }, {
+        "latitudeE7" : 478712590,
+        "longitudeE7" : -1221090370,
+        "placeId" : "ChIJDaCKje8HkFQRfOrhwPxAo0U",
+        "locationConfidence" : 0.014972798
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478693315,
+        "longitudeE7" : -1221117067
+      },
+      "endLocation" : {
+        "latitudeE7" : 478382750,
+        "longitudeE7" : -1221239133
+      },
+      "duration" : {
+        "startTimestampMs" : "1583251317276",
+        "endTimestampMs" : "1583251571879"
+      },
+      "distance" : 3571,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.42901921272278
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4682626351714134
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.4624166525900364
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.37282570265233517
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09044114267453551
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.062274112133309245
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05583650781773031
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.024174053396563977
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02171442174585536
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0045229004172142595
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0044846303353551775
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0031701558327768
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 7.591962003061781E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 9.272314400732284E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.920347589949415E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478692512,
+          "lngE7" : -1221119537
+        }, {
+          "latE7" : 478448295,
+          "lngE7" : -1221195907
+        }, {
+          "latE7" : 478382797,
+          "lngE7" : -1221239013
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 478386540,
+        "longitudeE7" : -1221251409,
+        "placeId" : "ChIJR-LZjIkIkFQRy1zwPqV6KBg",
+        "address" : "17416 WA-9\nSnohomish, WA 98296\nUSA",
+        "name" : "Clearview Plaza",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 99.50082
+      },
+      "duration" : {
+        "startTimestampMs" : "1583251571879",
+        "endTimestampMs" : "1583251961753"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 478382359,
+          "longitudeE7" : -1221240970,
+          "placeId" : "ChIJ0VMnJooIkFQRKyxI3nUNrTU",
+          "address" : "17512 WA-9\nSnohomish, WA 98296\nUSA",
+          "name" : "First Financial Northwest Bank - Clearview Branch",
+          "sourceInfo" : {
+            "deviceTag" : 395954334
+          },
+          "locationConfidence" : 30.535265
+        },
+        "duration" : {
+          "startTimestampMs" : "1583251571879",
+          "endTimestampMs" : "1583251714258"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 478386589,
+        "centerLngE7" : -1221238903,
+        "visitConfidence" : 85,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 478387649,
+          "longitudeE7" : -1221238063,
+          "placeId" : "ChIJDUk8XNkKkFQRrfVSrwJCJKc",
+          "locationConfidence" : 28.303555
+        }, {
+          "latitudeE7" : 478387396,
+          "longitudeE7" : -1221238444,
+          "placeId" : "ChIJS4Un94kIkFQREDZYTWAcOuA",
+          "locationConfidence" : 23.486704
+        }, {
+          "latitudeE7" : 478386622,
+          "longitudeE7" : -1221256902,
+          "placeId" : "ChIJow_c7IkIkFQR-cFl4db_6wY",
+          "locationConfidence" : 4.8315616
+        }, {
+          "latitudeE7" : 478394070,
+          "longitudeE7" : -1221248910,
+          "placeId" : "ChIJ_dnSGIoIkFQRV7S7nMfFxRE",
+          "locationConfidence" : 7.511481E-7
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 478387396,
+          "longitudeE7" : -1221238444,
+          "placeId" : "ChIJS4Un94kIkFQREDZYTWAcOuA",
+          "address" : "17408 WA-9\nSnohomish, WA 98296\nUSA",
+          "name" : "Starbucks",
+          "sourceInfo" : {
+            "deviceTag" : 395954334
+          },
+          "locationConfidence" : 81.110596
+        },
+        "duration" : {
+          "startTimestampMs" : "1583251714259",
+          "endTimestampMs" : "1583251961752"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 478384940,
+        "centerLngE7" : -1221240020,
+        "visitConfidence" : 85,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 478386622,
+          "longitudeE7" : -1221256902,
+          "placeId" : "ChIJow_c7IkIkFQR-cFl4db_6wY",
+          "locationConfidence" : 10.504112
+        }, {
+          "latitudeE7" : 478382359,
+          "longitudeE7" : -1221240970,
+          "placeId" : "ChIJ0VMnJooIkFQRKyxI3nUNrTU",
+          "locationConfidence" : 3.8382142
+        }, {
+          "latitudeE7" : 478377086,
+          "longitudeE7" : -1221245089,
+          "placeId" : "ChIJvY0iI4oIkFQRw1a0uTf6rqo",
+          "locationConfidence" : 2.9764142
+        }, {
+          "latitudeE7" : 478371640,
+          "longitudeE7" : -1221265600,
+          "placeId" : "ChIJCTq324sIkFQRefMzUxq4bmE",
+          "locationConfidence" : 0.40419176
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 478384940,
+      "centerLngE7" : -1221240020,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 478371640,
+        "longitudeE7" : -1221265600,
+        "placeId" : "ChIJCTq324sIkFQRefMzUxq4bmE",
+        "locationConfidence" : 0.49583423
+      }, {
+        "latitudeE7" : 478402050,
+        "longitudeE7" : -1221230227,
+        "placeId" : "ChIJJ4uVcmIIkFQRCyMAh3lxOkw",
+        "locationConfidence" : 0.0013224414
+      }, {
+        "latitudeE7" : 478355870,
+        "longitudeE7" : -1221248073,
+        "placeId" : "ChIJT5fABosIkFQRBAqpveolGSg",
+        "locationConfidence" : 6.367669E-4
+      }, {
+        "latitudeE7" : 478409037,
+        "longitudeE7" : -1221226067,
+        "placeId" : "ChIJw_reRGIIkFQRFfCgOPoCC3E",
+        "locationConfidence" : 4.1163058E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 478382750,
+          "lngE7" : -1221239133,
+          "timestampMs" : "1583251571879",
+          "accuracyMeters" : 52
+        }, {
+          "latE7" : 478388384,
+          "lngE7" : -1221238448,
+          "timestampMs" : "1583251610816",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 478388384,
+          "lngE7" : -1221238448,
+          "timestampMs" : "1583251672047",
+          "accuracyMeters" : 150
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 478380503,
+        "longitudeE7" : -1221244520
+      },
+      "endLocation" : {
+        "latitudeE7" : 475828671,
+        "longitudeE7" : -1221533773
+      },
+      "duration" : {
+        "startTimestampMs" : "1583251961753",
+        "endTimestampMs" : "1583254989519"
+      },
+      "distance" : 29964,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 87.55202889442444
+      }, {
+        "activityType" : "STILL",
+        "probability" : 5.699771270155907
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 4.010928422212601
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.6494205221533775
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6581246852874756
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.17291727708652616
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.11243229964748025
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.04905100795440376
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.034927434171549976
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.031581963412463665
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.015159476606640965
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.00941127073019743
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0024697210392332636
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.186084753309842E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 8.57460963743506E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 478380393,
+          "lngE7" : -1221244506
+        }, {
+          "latE7" : 478045768,
+          "lngE7" : -1221435470
+        }, {
+          "latE7" : 476137237,
+          "lngE7" : -1221916732
+        }, {
+          "latE7" : 476037406,
+          "lngE7" : -1221768112
+        }, {
+          "latE7" : 475826835,
+          "lngE7" : -1221537094
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 476136742,
+          "lngE7" : -1221914597,
+          "timestampMs" : "1583253611515",
+          "accuracyMeters" : 30
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 475823185,
+        "longitudeE7" : -1221532614,
+        "placeId" : "ChIJmVhjhKdukFQRgtC6O9i3mFw",
+        "address" : "Building IV\n3150 139th Ave SE\nBellevue, WA 98005\nUSA",
+        "name" : "Building IV",
+        "semanticType" : "TYPE_WORK",
+        "sourceInfo" : {
+          "deviceTag" : 395954334
+        },
+        "locationConfidence" : 81.56133
+      },
+      "duration" : {
+        "startTimestampMs" : "1583254989519",
+        "endTimestampMs" : "1583260426891"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 475828284,
+      "centerLngE7" : -1221533453,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 475826669,
+        "longitudeE7" : -1221539228,
+        "placeId" : "ChIJDYUNgR1skFQRGM_lzuZw3RE",
+        "locationConfidence" : 18.37347
+      }, {
+        "latitudeE7" : 475843038,
+        "longitudeE7" : -1221494195,
+        "placeId" : "ChIJZWLQKB5skFQRcN6zmpMVabs",
+        "locationConfidence" : 0.038112696
+      }, {
+        "latitudeE7" : 475804944,
+        "longitudeE7" : -1221527312,
+        "placeId" : "ChIJO867rqdukFQRWrvqTZXRwqE",
+        "locationConfidence" : 0.008122318
+      }, {
+        "latitudeE7" : 475806620,
+        "longitudeE7" : -1221541600,
+        "placeId" : "ChIJH8FAv6dukFQROY23ewHlaQY",
+        "locationConfidence" : 0.007905686
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
